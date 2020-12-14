@@ -49,8 +49,8 @@ Its just me.
     
     
 ## Notes
-Obviously I did not get done as much as I had hoped when I made the project proposal. This is simply because of a lack of time due to projects and finals in other classes. I had begun to implement collision handling between the ship and the asteroids but I was not able to finish it in time so I removed it for this submission. I had also intended to add enemy Agents that would use behavior trees to dictate their actions but I could not get to that either.
-# The Technical component used in this project is using physics engine implemented in PA05 to simulate the player ships movement in space as well as bullet movement.
+- Obviously I did not get done as much as I had hoped when I made the project proposal. This is simply because of a lack of time due to projects and finals in other classes. I had begun to implement collision handling between the ship and the asteroids but I was not able to finish it in time so I removed it for this submission. I had also intended to add enemy Agents that would use behavior trees to dictate their actions but I could not get to that either.
+- The Technical component used in this project is using physics engine implemented in PA05 to simulate the player ships movement in space as well as bullet movement.
 
 
 ## Video Demo
