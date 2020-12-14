@@ -1,0 +1,2 @@
+C:\Users\maxma\Documents\CS425\Final\SpaceyShoot\vcfiles\Debug\SpaceyShoot.exe
+C:\Users\maxma\Documents\CS425\Final\SpaceyShoot\vcfiles\Debug\SpaceyShoot.pdb

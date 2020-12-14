@@ -1,0 +1,25 @@
+﻿  main.cpp
+C:\Users\maxma\Documents\CS425\Final\SpaceyShoot\MyGame.h(3,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  Basic.cpp
+  Box.cpp
+  Geometry.cpp
+  Quaternion.cpp
+  MyAgent.cpp
+C:\Users\maxma\Documents\CS425\Final\SpaceyShoot\MyTexture.h(5,10): fatal error C1083: Cannot open include file: 'SDL_image.h': No such file or directory
+  MyBehaviorTree.cpp
+  MyBulletAgent.cpp
+C:\Users\maxma\Documents\CS425\Final\SpaceyShoot\MyTexture.h(5,10): fatal error C1083: Cannot open include file: 'SDL_image.h': No such file or directory
+  MyGame.cpp
+C:\Users\maxma\Documents\CS425\Final\SpaceyShoot\MyGame.h(3,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  MyObjectAgent.cpp
+C:\Users\maxma\Documents\CS425\Final\SpaceyShoot\MyTexture.h(5,10): fatal error C1083: Cannot open include file: 'SDL_image.h': No such file or directory
+  MyPhysicsEngine.cpp
+C:\Users\maxma\Documents\CS425\Final\SpaceyShoot\MyGame.h(3,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  MyPlayerAgent.cpp
+C:\Users\maxma\Documents\CS425\Final\SpaceyShoot\MyTexture.h(5,10): fatal error C1083: Cannot open include file: 'SDL_image.h': No such file or directory
+  MyScene.cpp
+C:\Users\maxma\Documents\CS425\Final\SpaceyShoot\MyTexture.h(5,10): fatal error C1083: Cannot open include file: 'SDL_image.h': No such file or directory
+  MySprite.cpp
+C:\Users\maxma\Documents\CS425\Final\SpaceyShoot\MyTexture.h(5,10): fatal error C1083: Cannot open include file: 'SDL_image.h': No such file or directory
+  MyTexture.cpp
+C:\Users\maxma\Documents\CS425\Final\SpaceyShoot\MyTexture.h(5,10): fatal error C1083: Cannot open include file: 'SDL_image.h': No such file or directory
