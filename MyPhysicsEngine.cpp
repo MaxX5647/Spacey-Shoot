@@ -59,12 +59,12 @@ void MyPhysicsEngine::ode(float h,
     vector<MyPhysicsEngine::dState> mid_dstates (dxdv);
     vector<Vector2d> mid_forces (states.size());
 
-//    euler(h / 2, states, dxdv, mid_states);
-//    GetForce(mid_states, mid_forces);
-//    derive(mid_states, mid_forces, mid_dstates);
-//    euler(h, states, mid_dstates, new_states);
+    euler(h / 2, states, dxdv, mid_states);
+    GetForce(mid_states, mid_forces);
+    derive(mid_states, mid_forces, mid_dstates);
+    euler(h, states, mid_dstates, new_states);
 
-    euler(h, states, dxdv, new_states);
+//    euler(h, states, dxdv, new_states);
 }
 
 //TODO: implement Euler's method
